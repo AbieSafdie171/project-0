@@ -1,3 +1,9 @@
+
+Abie Safdie
+
+project 0 - learning the basics of git :)
+
+
 # UOCIS322 - Project 0
 
 Trivial project to exercise version control, turn-in, and other mechanisms
